@@ -1,13 +1,14 @@
 ##  EDUCATION EXPERIENCE
 * SUN YAT-SEN UNIVERSITY 	                                     		 GuangZhou China
-  * Candidate Bachelor of Mathematics                                2017-2021
-  * Core Courses:
+* Candidate Bachelor of Mathematics                                2017-2021
+* Core Courses:
     * **Mathematics analysis** 
     * **Analytic Geometry**   
-    * **Higher Algebra**,
+    * **Higher Algebra**
     * **Discrete mathematics** 
     * **C program**        
     * **C++**
+    
  
  ##  HOBBY 
  - [x] swimming
