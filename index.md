@@ -9,7 +9,6 @@
     * **C program**        
     * **C++**
     
- 
  ##  HOBBY 
  - [x] swimming
  - [x] painting
