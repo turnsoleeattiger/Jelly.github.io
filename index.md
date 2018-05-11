@@ -1,4 +1,3 @@
-#   INFORMATION
 ##  EDUCATION EXPERIENCE
 * SUN YAT-SEN UNIVERSITY 	                                     		 GuangZhou China
   * Candidate Bachelor of Mathematics                                2017-2021
