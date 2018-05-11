@@ -1,5 +1,5 @@
-#  INFORMATION
-## EDUCATION EXPERIENCE
+#   INFORMATION
+##  EDUCATION EXPERIENCE
 * SUN YAT-SEN UNIVERSITY 	                                     		 GuangZhou China
   * Candidate Bachelor of Mathematics                                2017-2021
   * Core Courses:
@@ -10,14 +10,14 @@
     * **C program**        
     * **C++**
  
- ## HOBBY 
+ ##  HOBBY 
  - [x] swimming
  - [x] painting
  - [x] cooking
 
-## SKILLS
+##  SKILLS
 `SPSS`, `MS Office`, `Photoshop`, `InDesgin `
 
-## LANGUAGES
+##  LANGUAGES
 - [x] Mandarin (Native)
 - [x] English 
