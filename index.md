@@ -6,8 +6,7 @@
     * **Analytic Geometry**   
     * **Higher Algebra**
     * **Discrete mathematics** 
-    * **C program**        
-    * **C++**
+    * **C++/C program**        
     
  ##  HOBBY 
  - [x] swimming
