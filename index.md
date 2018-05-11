@@ -1,28 +1,23 @@
-## this is my new page!
-It's happy to see you!
-Please feel free to communicate with me!
-
-## how to find me?
-* You can find me here **[turnsoleeattiger.github.io](https://turnsoleeattiger.github.io/)** to view my new post!
-* you can also find my **[my instergram](https://www.instagram.com/turnsoleeattiger/)** to get more information.
-
-## here are some of my information:
-- [x] I love eating!
-- [x] I am pretty!
-
-## you can see my post *`here`*:sparkles:
-![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccl5nRIzoe5_2y4WEkjShHZzhacjq1YT5Ayke7_HSBfn5XoFy)
-
-## here are some of my codes:
-```javascript
-if(awesome)
-{return true}
-```
-
-
-
-
+ #  INFORMATION
+## EDUCATION EXPERIENCE
+* SUN YAT-SEN UNIVERSITY 	                                     		 GuangZhou China
+  * Candidate Bachelor of Mathematics                                2017-2021
+  * Core Courses:
+    * **Mathematics analysis** 
+    * **Analytic Geometry**   
+    * **Higher Algebra**,
+    * **Discrete mathematics** 
+    * **C program**        
+    * **C++**
  
+ ## HOBBY 
+ - [x] swimming
+ - [x] painting
+ - [x] cooking
 
- 
- 
+## SKILLS
+`SPSS`, `MS Office`, `Photoshop`, `InDesgin `
+
+## LANGUAGES
+- [x] Mandarin (Native)
+- [x] English 
